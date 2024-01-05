@@ -2,7 +2,7 @@
   <img alt="" height=50 width=50 src="https://magiccopy.xyz/assets/images/hadder.gif" />
 
 </div>
-<div id="badges">
+<div id="badges" style="align:center">
   <a href="https://www.linkedin.com/in/suddala-omkar-403433207/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
