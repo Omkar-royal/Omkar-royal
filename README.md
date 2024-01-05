@@ -45,7 +45,7 @@ Passionate and curious Web Developer with 6 months of hands-on experience and tr
 ------------------
 - Phone: [![](https://img.shields.io/badge/-+918008457914-%23181717?style=flat-square&logo=mobile)](tel:+918008457914)
 - Email: [![](https://img.shields.io/badge/-omkarsuddala8008@gmail.com-%23181717?style=flat-square&logo=gmail)](mailto:-omkarsuddala8008@gmail.com)
-- LinkedIn:<a href="https://www.linkedin.com/in/suddala-omkar-403433207/">
+- LinkedIn:<a href="https://www.linkedin.com/in/suddala-omkar-403433207/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
  
