@@ -1,21 +1,11 @@
 <div id="header" align="center">
- <img alt="Coder GIF" class="rounded-4" height=250 width=350 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
-</div>
-<div id="badges" style="align:center">
-  <a href="https://www.linkedin.com/in/suddala-omkar-403433207/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+ <img alt="Coder GIF"  height=250 width=350 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" style="background-blend-mode: overlay;" />
 </div>
 
 
 
-###  👋 Hii there I'm Omkar Suddala - Web Developer | Aspiring Learner
+
+###  👋 Hii there I'm Omkar Suddala - Full Satck Developer | Aspiring Learner
 
 ### 👨‍💻 About Me
 ------
@@ -24,23 +14,42 @@ Passionate and curious Web Developer with 6 months of hands-on experience and tr
 
 🚀 Key Skills
 ------
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="php" alt="php" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="bootstrap" alt="bootstrap" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg" title="jQuery" alt="jQuery" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="postgresql"  alt="postgresql" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
 
+</div>
 
-## Stats
+## :fire: My Stats :
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Omkar-royal&theme=dark&background=000000)](https://git.io/streak-stats)
 
-## Languages 
-
+## :hammer_and_wrench: Languages and Tools
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Omkar-royal&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<!--![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Omkar-royal)
+-->
 🚀 Certifications
 ------
-
+- Web Development Certificate by Internshala
+- Full Stack Development Certificate by ISM Univ of Skills
 
 📧 Let's Get in Touch
 ------------------
 - Phone: [![](https://img.shields.io/badge/-+918008457914-%23181717?style=flat-square&logo=mobile)](tel:+918008457914)
 - Email: [![](https://img.shields.io/badge/-omkarsuddala8008@gmail.com-%23181717?style=flat-square&logo=gmail)](mailto:-omkarsuddala8008@gmail.com)
-- LinkedIn: [![](https://camo.githubusercontent.com/dc2710b37f711ffb0c40f2937e284bfe28952a1a270356b3f2d525238f34d59d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4468727576696c2532304d6f7261646979612d626c75653f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f6468727576696c2d6d6f7261646979612f)](https://www.linkedin.com/in/suddala-omkar-403433207/)
-- GitHub: [![](https://img.shields.io/badge/-Omkar-royal-%23181717?style=flat-square&logo=github)](https://github.com/Omkar-royal)
+- LinkedIn:<a href="https://www.linkedin.com/in/suddala-omkar-403433207/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+ 
+
 
 <!--
 **Omkar-royal/Omkar-royal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
