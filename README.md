@@ -32,9 +32,9 @@ Passionate and curious Web Developer with 6 months of hands-on experience and tr
 <!--## :fire: My Stats :
 
 [![GitHub Streak](http://github-Omkar-royal.herokuapp.com?user=Omkar-royal&theme=dark&background=000000)](https://git.io/streak-stats)-->
-## :hammer_and_wrench: Languages and Tools
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Omkar-royal&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-<!--![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Omkar-royal)
+<!--## :hammer_and_wrench: Languages and Tools
+[![Top Langs](https://vercel.app/api/top-langs/?username=Omkar-royal&layout=compact&theme=vision-friendly-dark)](https://github.com/Omkar-royal/Omkar-royal)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Omkar-royal)
 -->
 🚀 Certifications
 ------
